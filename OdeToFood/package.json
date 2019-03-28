@@ -1,0 +1,7 @@
+{
+  "name": "OdeToFood",
+  "version": "0.0.1",
+  "dependencies": {
+    "datatables.net-bs": "^1.10.19"
+  }
+}
